@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/zoomyang/podTestLibrary"                           #主页,这里要填写可以访问到的地址，不然验证不通过
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"           #截图
   s.license          = 'MIT'              #开源协议
-  s.author           = { 'Jarek444' => '373330163@qq.com' }                   #作者信息
+  s.author           = { 'Jarek' => '373330163@qq.com' }                   #作者信息
   s.source           = { :git => "https://github.com/zoomyang/podTestLibrary.git", :tag => "0.1.0" }      #项目地址，这里不支持ssh的地址，验证不通过，只支持HTTP和HTTPS，最好使用HTTPS
   # s.social_media_url = 'https://twitter.com/<twitter_username>'                       #多媒体介绍地址
  
